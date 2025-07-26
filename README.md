@@ -21,7 +21,7 @@ A Python-based Telegram message sender that allows automated message distributio
 
 1. Clone the repository / Клонируйте репозиторий
 ```bash
-git clone <repository-url>
+git clone https://github.com/godspeedstreet/spam
 ```
 
 2. Install dependencies / Установите зависимости
